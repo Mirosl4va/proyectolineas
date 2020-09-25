@@ -1,2 +1,0 @@
-# proyectolineas
-practica
